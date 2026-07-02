@@ -1,0 +1,27 @@
+Hi {{first_name}},
+
+If your CRM is scaling across markets, duplicating work is a waste of everyone’s time. SCHMACK helps brands build journeys once, localise properly, and move faster without the usual quality drop.
+
+Book a discovery call before {{expiry_date}} and quote SCHMACK25 for a complimentary CRM audit.
+
+Primary CTA  
+Book a Discovery Call
+
+Feature 1 headline  
+Build once. Launch properly everywhere.
+
+Feature 1 copy  
+From strategy and creative through to implementation and optimisation, SCHMACK helps ambitious brands run CRM programmes that scale internationally without turning the customer experience into a compromise.
+
+Feature 2 headline  
+Smarter CRM, less busywork.
+
+Feature 2 copy  
+Automate the repetitive stuff, improve campaign quality, and spend more time on work that actually moves the business. We combine modern engineering with CRM expertise to help brands move with more intent and less waste.
+
+Footer  
+© 2026 SCHMACK. All rights reserved.
+
+Questions? Visit https://schmack.co.uk or contact hello@schmack.com.
+
+Unsubscribe
