@@ -70,8 +70,10 @@ const injectIntoTemplate = (
 
   // cta is a link not a paragraph so we handle it separately
   const cta = doc.querySelector('[data-block-id="primary-cta"] a');
-  if (cta) cta.textContent = content.primaryCta ?? "";
-
+  
+  if (cta && content.primaryCta) {
+  cta.textContent = content.primaryCta;
+}
   return doc.documentElement.outerHTML;
 };
 
