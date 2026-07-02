@@ -80,7 +80,7 @@ function App() {
   // parsedContent holds a structured dictionary when a file is uploaded
   // if null, we fall back to parsing the textarea text in handleTranslate
   const [parsedContent, setParsedContent] = useState<Record<string, string> | null>(null);
-  const [targetLang, setTargetLang] = useState("RO");
+  const [targetLang, setTargetLang] = useState("SV");
   // the raw html of the email template, loaded once on mount
   const [htmlTemplate, setHtmlTemplate] = useState("");
   const [translated, setTranslated] = useState("");
