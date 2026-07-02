@@ -86,7 +86,7 @@ I approached it in the following layers:
 
 ## What I would improve with more time
 
-- **Uploading .docx files ** docx files don't follow the same section structure as .txt. Although I implemented the .docx parsing function, the content landed entirely in the intro field, which was both not very useful, and made everything I previously said about DeepL handling the merge_tags well fail, so I decided against it. Parsing the .docx in structured sections would solve this.
+- **Uploading .docx files:** docx files don't follow the same section structure as .txt. Although I implemented the .docx parsing function, the content landed entirely in the intro field, which was both not very useful, and made everything I previously said about DeepL handling the merge_tags well fail, so I decided against it. Parsing the .docx in structured sections would solve this.
 - **Handle the email injection better:** right now if certain fields are missing (e.g., the csv file is missing some lines or tags) the layout looks a little off
 - **URL and merge tag protection:** implement placeholder substitution before translation to guarantee URLs and merge tags survive any translation API behaviour
 - **Source language detection:** currently assumes English; could auto-detect using DeepL's language detection
